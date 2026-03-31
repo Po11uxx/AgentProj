@@ -1,0 +1,134 @@
+[
+  {
+    "source": "travel_planning_rules.md#chunk1",
+    "text": "# Travel Planning Rules\n\n- Build itinerary with weather-first strategy for outdoor locations.\n- Prioritize top-3 must-visit spots; avoid overpacking one-day plans.\n- Add a fallback indoor option if precipitation probability is above 40%.\n- Insert meal and transport breaks every 2 to 3 activities.\n- "
+  },
+  {
+    "source": "travel_planning_rules.md#chunk2",
+    "text": "l and transport breaks every 2 to 3 activities.\n- Use user preferences such as budget and interest tags (beach, museum, family) for personalization.\n"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk1",
+    "text": "# 南京 Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T04:37:30.207027+00:00\n- City center reference: 南京市, 江苏省, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 南京博物院 | museum | 南京博物院, 中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng "
+  },
+  {
+    "source": "南京_travel_guide.md#chunk2",
+    "text": "中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng Bahe Belgium Beer Museum | museum | Luodeng Bahe Belgium Beer Museum, 洪武北路, 新街口街道, 玄武区, 南京市, 江苏省, 210005, 中国\n- Sifang Art Museum | museum | Sifang Art Museum, 七珍线, 顶山街道, 江北新区, 浦口区, 南京市, 江苏省, 210031, 中国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk3",
+    "text": "国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210002, 中国\n- 南京城墙博物馆 | museum | 南京城墙博物馆, 新民坊路, 三条营社区, 夫子庙街道, 秦淮区, 南京市, 江苏省, 210006, 中国\n- 明孝陵博物馆 | museum | 明孝陵博物馆, 陵园路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京古生物博物馆 | museum | 南京古生物博物馆, 39, 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 |"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk4",
+    "text": " 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 | museum | 孫中山紀念館, 水榭路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京大学苏州研究生院 | park | 南京大学苏州研究生院, 书影街, 星慧社区, 月亮湾社工委, 金鸡湖街道, 苏州工业园区, 苏州市, 江苏省, 215123, 中国\n\n## Overview\n- Top attractions and crowd advice for: 南京 top attractions one day itinerary tips\n- Prioriti"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk5",
+    "text": " top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: 南京 neighborhoods transport crowd tips\n- Prioritize nearby"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk6",
+    "text": "hborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: 南京 local food signature restaurants travel tips\n- Prioritize nearby spots to "
+  },
+  {
+    "source": "南京_travel_guide.md#chunk7",
+    "text": "taurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset whe"
+  },
+  {
+    "source": "南京_travel_guide.md#chunk8",
+    "text": "utdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk1",
+    "text": "# New York Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T05:06:41.476858+00:00\n- City center reference: New York, United States\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- Darwin D. Martin House | landmark | Darwin D. Martin Hous"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk2",
+    "text": "D. Martin House | landmark | Darwin D. Martin House, Jewett Parkway, Parkside, North Buffalo, Buffalo, Erie County, New York, 14214, United States\n- Schoharie Crossing State Historic Site | landmark | Schoharie Crossing State Historic Site, Fort Hunter, Town of Glen, Town of Florida, Montgomery Coun"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk3",
+    "text": "er, Town of Glen, Town of Florida, Montgomery County, New York, 12069, United States\n- Landmark Theatre | landmark | Landmark Theatre, 362, South Salina Street, Downtown, City of Syracuse, Onondaga County, New York, 13202, United States\n- Gerrit Smith Estate | landmark | Gerrit Smith Estate, Oxbow R"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk4",
+    "text": "h Estate | landmark | Gerrit Smith Estate, Oxbow Road, Clockville, Town of Smithfield, Madison County, New York, 13043, United States\n- Landmark Albany | landmark | Landmark Albany, City of Albany, Albany County, New York, United States\n- Moss Island | landmark | Moss Island, Little Falls, City of L"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk5",
+    "text": " | landmark | Moss Island, Little Falls, City of Little Falls, Herkimer County, New York, United States\n- Landmark Colony | landmark | Landmark Colony, Oyster Bay, Town of Oyster Bay, Nassau County, New York, United States\n- Landmark Drive | landmark | Landmark Drive, East Ithaca, Town of Ithaca, To"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk6",
+    "text": " | Landmark Drive, East Ithaca, Town of Ithaca, Tompkins County, New York, 14850, United States\n- Viewpoint | viewpoint | Viewpoint, Town of Hague, Warren County, New York, 12836, United States\n- Viewpoint Drive | viewpoint | Viewpoint Drive, The Terrace at Highpointe, City of Troy, Rensselaer Count"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk7",
+    "text": "race at Highpointe, City of Troy, Rensselaer County, New York, 12182, United States\n\n## Overview\n- Top attractions and crowd advice for: New York top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in th"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk8",
+    "text": "utdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: New York neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the a"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk9",
+    "text": "oor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: New York local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the after"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk10",
+    "text": "activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least on"
+  },
+  {
+    "source": "new_york_travel_guide.md#chunk11",
+    "text": "sfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+  },
+  {
+    "source": "hz_travel_tips.md#chunk1",
+    "text": "# Hangzhou One-day Travel Notes\n\n- West Lake is always worth a visit, no matter what time or whether; parking can be crowded in noon.\n- The tea museums have timed entry suggestions and usually lower crowd on weekday mornings.\n- Hangzhou in March is always rainy; bring an umbrella.\n- Consider groupin"
+  },
+  {
+    "source": "hz_travel_tips.md#chunk2",
+    "text": "lways rainy; bring an umbrella.\n- Consider grouping attractions by area to reduce cross-city traffic time.\n- Reserve at least 20 minutes transfer buffer between two major locations.\n"
+  },
+  {
+    "source": "la_travel_tips.md#chunk1",
+    "text": "# Los Angeles One-day Travel Notes\n\n- Griffith Observatory is best in early morning or sunset; parking can be crowded in noon.\n- The Getty Center has timed entry suggestions and usually lower crowd on weekday mornings.\n- Santa Monica is windy in late afternoon; bring a light jacket.\n- Consider group"
+  },
+  {
+    "source": "la_travel_tips.md#chunk2",
+    "text": " afternoon; bring a light jacket.\n- Consider grouping attractions by area to reduce cross-city traffic time.\n- Reserve at least 20 minutes transfer buffer between two major locations.\n"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk1",
+    "text": "# Beijing Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T05:19:53.273339+00:00\n- City center reference: 北京市, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 中国国家博物馆 | museum | 中国国家博物馆, 16, 东长安街, 南池子社区, 东华门街道, 首都功能核心区, 东城区, 北京市, 100"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk2",
+    "text": "物馆, 16, 东长安街, 南池子社区, 东华门街道, 首都功能核心区, 东城区, 北京市, 100006, 中国\n- 故宫博物院 | museum | 故宫博物院, 4号, 景山前街, 智德社区, 东华门街道, 首都功能核心区, 东城区, 北京市, 100010, 中国\n- 北京古代建筑博物馆 | museum | 北京古代建筑博物馆, 南纬路南巷, 天桥街道, 首都功能核心区, 西城区, 北京市, 100032, 中国\n- 鲁迅博物馆 | museum | 鲁迅博物馆, 宫门口三条, 宫门口社区, 新街口街道, 首都功能核心区, 西城区, 北京市, 100032, 中国\n- 首都博物馆 |"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk3",
+    "text": "社区, 新街口街道, 首都功能核心区, 西城区, 北京市, 100032, 中国\n- 首都博物馆 | museum | 首都博物馆, 16, 复兴门外大街, 月坛街道, 首都功能核心区, 西城区, 北京市, 100032, 中国\n- 中国人民革命军事博物馆 | museum | 中国人民革命军事博物馆, 9, 复兴路, 羊坊店街道, 海淀区, 北京市, 100038, 中国\n- 亮马河酒店 | landmark | 亮马河酒店, 麦子店西街, 麦子店, 麦子店街道, 朝阳区, 北京市, 100125, 中国\n- 天然图画 | viewpoint | 天然图画, 福缘门路, 福缘门, 青龙桥街道"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk4",
+    "text": "25, 中国\n- 天然图画 | viewpoint | 天然图画, 福缘门路, 福缘门, 青龙桥街道, 海淀区, 北京市, 100871, 中国\n- 中国人民抗日战争纪念馆 | museum | 中国人民抗日战争纪念馆, 宛平城城墙, 宛平街道, 丰台区, 北京市, 100040, 中国\n- 八卦台 | viewpoint | 八卦台, 航站楼联络线, 天竺镇, 顺义区, 北京市, 100621, 中国\n\n## Overview\n- Top attractions and crowd advice for: Beijing top attractions one day itinerary t"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk5",
+    "text": "e for: Beijing top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: Beijing neighborhoods transport crowd tips\n"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk6",
+    "text": "e for: Beijing neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: Beijing local food signature restaurants travel tips\n- Pri"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk7",
+    "text": "local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early mo"
+  },
+  {
+    "source": "beijing_travel_guide.md#chunk8",
+    "text": "zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+  }
+]

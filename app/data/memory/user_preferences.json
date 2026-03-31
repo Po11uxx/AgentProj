@@ -1,0 +1,19 @@
+{
+  "u1": {
+    "budget": 200,
+    "preferred_scene": "beach"
+  },
+  "demo-user": {
+    "budget": 200,
+    "preferred_scene": [
+      "museum",
+      "natural scenery"
+    ]
+  },
+  "cn-user": {
+    "budget": 200,
+    "preferred_scene": [
+      "natural scenery"
+    ]
+  }
+}
