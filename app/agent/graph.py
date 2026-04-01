@@ -143,6 +143,13 @@ class ProductivityAgent:
             retrieved_context=state.get("retrieved_docs", []),
             user_preferences=prefs,
         )
+        knowledge_update = self.knowledge_manager.update_city_knowledge_from_places(
+            city=state["city"],
+            places=payload.get("map_data", {}).get("places", []),
+        )
+        if knowledge_update.get("updated"):
+            self.store = build_vector_store(force=True)
+        payload["knowledge_update"] = knowledge_update
         payload["knowledge_status"] = state.get("knowledge_status", {})
         state["tool_outputs"] = payload
         state["used_tools"] = ["weather", "search", "map", "calendar", "transport"]

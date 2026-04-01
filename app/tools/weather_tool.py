@@ -11,10 +11,12 @@ class WeatherTool:
     description = "Get weather by city and date"
 
     _CITY_COORDS = {
+        "hangzhou": (30.27, 120.15),
         "los angeles": (34.05, -118.24),
         "new york": (40.71, -74.01),
         "san francisco": (37.77, -122.42),
         "beijing": (39.90, 116.40),
+        "nanjing": (32.06, 118.79),
         "shanghai": (31.23, 121.47),
     }
 

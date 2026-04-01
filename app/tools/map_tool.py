@@ -44,6 +44,7 @@ class MapTool:
                     "lon": center.get("lon"),
                     "address": center.get("display_name", city),
                     "category": "landmark",
+                    "source_type": "live_map_fallback",
                 }
             ]
 
@@ -59,6 +60,18 @@ class MapTool:
             "source": "nominatim",
             "live": live,
         }
+
+    def search_specific_place(self, city: str, place_name: str) -> list[dict[str, Any]]:
+        center = self._geocode_city(city)
+        places = self._search_places(
+            city=city,
+            query=place_name,
+            center_lat=center.get("lat"),
+            center_lon=center.get("lon"),
+            limit=3,
+            max_distance_km=35.0,
+        )
+        return [{k: v for k, v in place.items() if not k.startswith("_")} for place in places]
 
     def _geocode_city(self, city: str) -> dict[str, Any]:
         try:
@@ -131,12 +144,13 @@ class MapTool:
                 lon = float(row.get("lon", 0.0))
                 display_name = row.get("display_name", "")
                 display_lower = display_name.lower()
+                address_only = display_lower.split(",", 1)[1].strip() if "," in display_lower else display_lower
 
                 distance_km = 0.0
                 if center_lat is not None and center_lon is not None:
                     distance_km = self._haversine_km(center_lat, center_lon, lat, lon)
 
-                city_match_score = self._city_match_score(display_name=display_lower, city_variants=city_variants)
+                city_match_score = self._city_match_score(display_name=address_only, city_variants=city_variants)
                 if center_lat is not None and center_lon is not None:
                     if distance_km > max_distance_km and city_match_score <= 0:
                         continue
@@ -154,6 +168,7 @@ class MapTool:
                         "lon": lon,
                         "address": display_name,
                         "category": query,
+                        "source_type": "live_map",
                         "_distance_km": round(distance_km, 2),
                         "_city_match_score": city_match_score,
                     }

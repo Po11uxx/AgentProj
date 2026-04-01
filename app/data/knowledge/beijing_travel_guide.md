@@ -15,7 +15,6 @@
 - 天然图画 | viewpoint | 天然图画, 福缘门路, 福缘门, 青龙桥街道, 海淀区, 北京市, 100871, 中国
 - 中国人民抗日战争纪念馆 | museum | 中国人民抗日战争纪念馆, 宛平城城墙, 宛平街道, 丰台区, 北京市, 100040, 中国
 - 八卦台 | viewpoint | 八卦台, 航站楼联络线, 天竺镇, 顺义区, 北京市, 100621, 中国
-
 ## Overview
 - Top attractions and crowd advice for: Beijing top attractions one day itinerary tips
 - Prioritize nearby spots to reduce transport overhead.

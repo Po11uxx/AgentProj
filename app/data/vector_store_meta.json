@@ -8,36 +8,44 @@
     "text": "l and transport breaks every 2 to 3 activities.\n- Use user preferences such as budget and interest tags (beach, museum, family) for personalization.\n"
   },
   {
-    "source": "南京_travel_guide.md#chunk1",
-    "text": "# 南京 Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T04:37:30.207027+00:00\n- City center reference: 南京市, 江苏省, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 南京博物院 | museum | 南京博物院, 中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng "
+    "source": "guangzhou_city_travel_guide.md#chunk1",
+    "text": "# Guangzhou City Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T22:30:26.838288+00:00\n- City center reference: 广州市, 广东省, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 岭南金融博物馆 | museum | 岭南金融博物馆, 29, 流水井, 北京街道, 越秀区, 广州市, 广东省, 5100"
   },
   {
-    "source": "南京_travel_guide.md#chunk2",
-    "text": "中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng Bahe Belgium Beer Museum | museum | Luodeng Bahe Belgium Beer Museum, 洪武北路, 新街口街道, 玄武区, 南京市, 江苏省, 210005, 中国\n- Sifang Art Museum | museum | Sifang Art Museum, 七珍线, 顶山街道, 江北新区, 浦口区, 南京市, 江苏省, 210031, 中国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区"
+    "source": "guangzhou_city_travel_guide.md#chunk2",
+    "text": "seum | 岭南金融博物馆, 29, 流水井, 北京街道, 越秀区, 广州市, 广东省, 510030, 中国\n- 太平馆餐厅 | restaurant | 太平馆餐厅, 北京路, 北京街道, 越秀区, 广州市, 广东省, 510030, 中国\n- 南越王宫博物馆 | museum | 南越王宫博物馆, 316, 中山四路, 北京街道, 越秀区, 广州市, 广东省, 510030, 中国\n- 东方文德广场 | landmark | 东方文德广场, 76, 文德路, 大塘街道, 越秀区, 广州市, 广东省, 510030, 中国\n- 銀灯食府 | restaurant | 銀灯食府, 2, 广"
   },
   {
-    "source": "南京_travel_guide.md#chunk3",
-    "text": "国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210002, 中国\n- 南京城墙博物馆 | museum | 南京城墙博物馆, 新民坊路, 三条营社区, 夫子庙街道, 秦淮区, 南京市, 江苏省, 210006, 中国\n- 明孝陵博物馆 | museum | 明孝陵博物馆, 陵园路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京古生物博物馆 | museum | 南京古生物博物馆, 39, 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 |"
+    "source": "guangzhou_city_travel_guide.md#chunk3",
+    "text": ", 广东省, 510030, 中国\n- 銀灯食府 | restaurant | 銀灯食府, 2, 广州起义路, 人民街道, 越秀区, 广州市, 广东省, 510115, 中国\n- 华厦大酒店 | landmark | 华厦大酒店, 回龙路, 人民街道, 越秀区, 广州市, 广东省, 510115, 中国\n- 南越王博物院王墓展区 | museum | 南越王博物院王墓展区, 867, 解放北路, 流花街道, 越秀区, 广州市, 广东省, 510180, 中国\n- 广东革命历史博物馆 | museum | 广东革命历史博物馆, 2, 陵园西路, 大塘街道, 越秀区, 广州市, 广东省, 5101"
   },
   {
-    "source": "南京_travel_guide.md#chunk4",
-    "text": " 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 | museum | 孫中山紀念館, 水榭路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京大学苏州研究生院 | park | 南京大学苏州研究生院, 书影街, 星慧社区, 月亮湾社工委, 金鸡湖街道, 苏州工业园区, 苏州市, 江苏省, 215123, 中国\n\n## Overview\n- Top attractions and crowd advice for: 南京 top attractions one day itinerary tips\n- Prioriti"
+    "source": "guangzhou_city_travel_guide.md#chunk4",
+    "text": "um | 广东革命历史博物馆, 2, 陵园西路, 大塘街道, 越秀区, 广州市, 广东省, 510100, 中国\n- 大同酒家 | restaurant | 大同酒家, 沿江西路, 人民街道, 越秀区, 广州市, 广东省, 510375, 中国\n- 孙中山大元帅府纪念馆 | museum | 孙中山大元帅府纪念馆, 大元帅府广场, 滨江街道, 海珠区, 广州市, 广东省, 510115, 中国\n\n- 越秀公园 | park | 越秀公园, 988, 洪桥街道, 越秀区, 广州市, 广东省, 中国\n- 流花湖公园 | lake | 流花湖公园, 六榕街道, 越秀区, 广州市, 广东省, 中国\n-"
   },
   {
-    "source": "南京_travel_guide.md#chunk5",
-    "text": " top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: 南京 neighborhoods transport crowd tips\n- Prioritize nearby"
+    "source": "guangzhou_city_travel_guide.md#chunk5",
+    "text": "\n- 流花湖公园 | lake | 流花湖公园, 六榕街道, 越秀区, 广州市, 广东省, 中国\n- 烈士陵园 | park | 烈士陵园, 中山三路, 大塘街道, 越秀区, 广州市, 广东省, 510100, 中国\n- 流花湖 | lake | 流花湖, 六榕街道, 越秀区, 广州市, 广东省, 中国\n- 文化公园 | park | 文化公园, 西堤二马路, 岭南街道, 荔湾区, 广州市, 广东省, 510130, 中国\n- 花园酒店 | garden | 花园酒店, 华乐街道, 越秀区, 广州市, 广东省, 中国\n- 东山湖公园 | lake | 东山湖公园, 东山街道, 越秀区, 广州市"
   },
   {
-    "source": "南京_travel_guide.md#chunk6",
-    "text": "hborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: 南京 local food signature restaurants travel tips\n- Prioritize nearby spots to "
+    "source": "guangzhou_city_travel_guide.md#chunk6",
+    "text": "州市, 广东省, 中国\n- 东山湖公园 | lake | 东山湖公园, 东山街道, 越秀区, 广州市, 广东省, 中国\n- 云台花园 | garden | 云台花园, 麓湖路, 金贵村, 登峰街道, 越秀区, 广州市, 广东省, 510095, 中国\n- 广州动物园 | garden | 广州动物园, 120, 先烈中路, 区庄, 黄花岗街道, 越秀区, 广州市, 广东省, 510070, 中国\n- 飞翔公园 | park | 飞翔公园, 云城南一路, 三元里街道, 白云区, 广州市, 广东省, 510405, 中国\n## Overview\n- Top attractions and crow"
   },
   {
-    "source": "南京_travel_guide.md#chunk7",
-    "text": "taurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset whe"
+    "source": "guangzhou_city_travel_guide.md#chunk7",
+    "text": " 510405, 中国\n## Overview\n- Top attractions and crowd advice for: Guangzhou City top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions a"
   },
   {
-    "source": "南京_travel_guide.md#chunk8",
-    "text": "utdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+    "source": "guangzhou_city_travel_guide.md#chunk8",
+    "text": "urce: mock\n\n## Local logistics\n- Top attractions and crowd advice for: Guangzhou City neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd"
+  },
+  {
+    "source": "guangzhou_city_travel_guide.md#chunk9",
+    "text": " Source: mock\n\n## Food\n- Top attractions and crowd advice for: Guangzhou City local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops b"
+  },
+  {
+    "source": "guangzhou_city_travel_guide.md#chunk10",
+    "text": "\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
   },
   {
     "source": "new_york_travel_guide.md#chunk1",
@@ -84,20 +92,108 @@
     "text": "sfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
   },
   {
-    "source": "hz_travel_tips.md#chunk1",
-    "text": "# Hangzhou One-day Travel Notes\n\n- West Lake is always worth a visit, no matter what time or whether; parking can be crowded in noon.\n- The tea museums have timed entry suggestions and usually lower crowd on weekday mornings.\n- Hangzhou in March is always rainy; bring an umbrella.\n- Consider groupin"
+    "source": "hangzhou_travel_guide.md#chunk1",
+    "text": "# Hangzhou Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T20:23:28.934323+00:00\n- City center reference: 杭州市, 浙江省, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 西湖 - West Lake - | natural scenery | 15, 南山路, 西湖街道, 西湖区, 杭州市, 浙江省, 3"
   },
   {
-    "source": "hz_travel_tips.md#chunk2",
-    "text": "lways rainy; bring an umbrella.\n- Consider grouping attractions by area to reduce cross-city traffic time.\n- Reserve at least 20 minutes transfer buffer between two major locations.\n"
+    "source": "hangzhou_travel_guide.md#chunk2",
+    "text": " natural scenery | 15, 南山路, 西湖街道, 西湖区, 杭州市, 浙江省, 310007, 中国\n- 杭州植物园 - Hangzhou Botanical Garden | natural scenery | 1, 桃源岭, 西湖街道, 西湖区, 杭州市, 浙江省, 310007, 中国\n- Medecine Temple - Chinese Medecine museum - Hu Qing Yu Tang | museum | Medecine Temple - Chinese Medecine museum - Hu Qing Yu Tang, 安荣巷, 清河坊社区"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk3",
+    "text": "nese Medecine museum - Hu Qing Yu Tang, 安荣巷, 清河坊社区, 清波街道, 上城区, 杭州市, 浙江省, 310002, 中国\n- 中国丝绸博物馆 | museum | 中国丝绸博物馆, 73-1, 玉皇山路, 南山村, 西湖街道, 西湖区, 杭州市, 浙江省, 310002, 中国\n- 浙江省博物馆 | museum | 浙江省博物馆, 孤山路, 北山街道, 西湖区, 杭州市, 浙江省, 310007, 中国\n- 中国茶叶博物馆（双峰馆区） | museum | 中国茶叶博物馆（双峰馆区）, 88, 龙井路, 外鸡笼山, 西湖街道, 西湖区, 杭州市,"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk4",
+    "text": "um | 中国茶叶博物馆（双峰馆区）, 88, 龙井路, 外鸡笼山, 西湖街道, 西湖区, 杭州市, 浙江省, 310007, 中国\n- 杭州海塘遗址博物馆 | museum | 杭州海塘遗址博物馆, 九睦路, 九堡, 九堡街道, 上城区, 杭州市, 浙江省, 310017, 中国\n- 中国动漫博物馆 | museum | 中国动漫博物馆, 白马湖路, 汤家桥社区, 长河街道, 滨江区, 杭州市, 浙江省, 310052, 中国\n- 中国茶叶博物馆（龙井馆区） | museum | 中国茶叶博物馆（龙井馆区）, 268, 满觉陇路, 杨家山, 西湖街道, 西湖区, 杭州市, 浙江省, 3100"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk5",
+    "text": "馆（龙井馆区）, 268, 满觉陇路, 杨家山, 西湖街道, 西湖区, 杭州市, 浙江省, 310008, 中国\n- Museum of  Martyrs | museum | Museum of  Martyrs, 北干山南路, 育才西苑-东区, 新塘街道, 萧山区, 杭州市, 浙江省, 311202, 中国\n\n## Overview\n- Top attractions and crowd advice for: Hangzhou top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transp"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk6",
+    "text": "ry tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: Hangzhou neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk7",
+    "text": "tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: Hangzhou local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport ove"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk8",
+    "text": "\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 2"
+  },
+  {
+    "source": "hangzhou_travel_guide.md#chunk9",
+    "text": "rly morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk1",
+    "text": "# 南京 Runtime Travel Guide\n\n- Generated automatically at 2026-03-31T04:37:30.207027+00:00\n- City center reference: 南京市, 江苏省, 中国\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n- 南京博物院 | museum | 南京博物院, 中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng "
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk2",
+    "text": "中山东路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210018, 中国\n- Luodeng Bahe Belgium Beer Museum | museum | Luodeng Bahe Belgium Beer Museum, 洪武北路, 新街口街道, 玄武区, 南京市, 江苏省, 210005, 中国\n- Sifang Art Museum | museum | Sifang Art Museum, 七珍线, 顶山街道, 江北新区, 浦口区, 南京市, 江苏省, 210031, 中国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk3",
+    "text": "国\n- 六朝博物馆 | museum | 六朝博物馆, 302号, 长江路, 梅园新村街道, 玄武区, 南京市, 江苏省, 210002, 中国\n- 南京城墙博物馆 | museum | 南京城墙博物馆, 新民坊路, 三条营社区, 夫子庙街道, 秦淮区, 南京市, 江苏省, 210006, 中国\n- 明孝陵博物馆 | museum | 明孝陵博物馆, 陵园路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京古生物博物馆 | museum | 南京古生物博物馆, 39, 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 |"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk4",
+    "text": " 北京东路, 玄武门街道, 玄武区, 南京市, 江苏省, 210008, 中国\n- 孫中山紀念館 | museum | 孫中山紀念館, 水榭路, 孝陵卫街道, 玄武区, 南京市, 江苏省, 210095, 中国\n- 南京大学苏州研究生院 | park | 南京大学苏州研究生院, 书影街, 星慧社区, 月亮湾社工委, 金鸡湖街道, 苏州工业园区, 苏州市, 江苏省, 215123, 中国\n\n- 南京市 City Center Walk | landmark | 南京市, 江苏省, 中国\n## Overview\n- Top attractions and crowd advice for: 南京 "
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk5",
+    "text": "erview\n- Top attractions and crowd advice for: 南京 top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: 南京 neigh"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk6",
+    "text": "s\n- Top attractions and crowd advice for: 南京 neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: 南京 local food signature rest"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk7",
+    "text": "and crowd advice for: 南京 local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put ou"
+  },
+  {
+    "source": "nanjing_travel_guide.md#chunk8",
+    "text": "rea and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
   },
   {
     "source": "la_travel_tips.md#chunk1",
-    "text": "# Los Angeles One-day Travel Notes\n\n- Griffith Observatory is best in early morning or sunset; parking can be crowded in noon.\n- The Getty Center has timed entry suggestions and usually lower crowd on weekday mornings.\n- Santa Monica is windy in late afternoon; bring a light jacket.\n- Consider group"
+    "text": "# Los Angeles Runtime Travel Guide\n\n- Migrated from legacy travel tips format.\n- City center reference: Los Angeles, California, United States\n- Use this file as reusable RAG context for future itinerary generation.\n\n## Real POI Candidates\n\n## Overview\n- Griffith Observatory is best in early morning"
   },
   {
     "source": "la_travel_tips.md#chunk2",
-    "text": " afternoon; bring a light jacket.\n- Consider grouping attractions by area to reduce cross-city traffic time.\n- Reserve at least 20 minutes transfer buffer between two major locations.\n"
+    "text": "ew\n- Griffith Observatory is best in early morning or sunset; parking can be crowded in noon.\n- The Getty Center has timed entry suggestions and usually lower crowd on weekday mornings.\n- Santa Monica is windy in late afternoon; bring a light jacket.\n\n## Planning Rules\n- Consider grouping attraction"
+  },
+  {
+    "source": "la_travel_tips.md#chunk3",
+    "text": "\n\n## Planning Rules\n- Consider grouping attractions by area to reduce cross-city traffic time.\n- Reserve at least 20 minutes transfer buffer between two major locations.\n\n## Real POI Candidates\n- Vista Viewpoint | viewpoint | Vista Viewpoint, Vista del Valle Drive, Los Feliz Neighborhood Council Dis"
+  },
+  {
+    "source": "la_travel_tips.md#chunk4",
+    "text": "el Valle Drive, Los Feliz Neighborhood Council District, Los Angeles, Los Angeles County, California, 90027, United States\n- Tyrolean Tank Hollywood Sign Viewpoint | viewpoint | Tyrolean Tank Hollywood Sign Viewpoint, Last House Trail, Los Angeles, Los Angeles County, California, 90068, United State"
+  },
+  {
+    "source": "la_travel_tips.md#chunk5",
+    "text": "os Angeles County, California, 90068, United States\n- Lake | lake | Lake, Foothill Freeway, Pasadena Council District 5, Pasadena, Los Angeles County, California, 91182, United States\n- Temescal Ridge Trail | viewpoint | Temescal Ridge Trail, Pacific Palisades, Los Angeles, Los Angeles County, Calif"
+  },
+  {
+    "source": "la_travel_tips.md#chunk6",
+    "text": " Palisades, Los Angeles, Los Angeles County, California, 90272, United States\n- Ibrahim El-Hefni Viewpoint | viewpoint | Ibrahim El-Hefni Viewpoint, Burma Road Trail, Rancho Palos Verdes, Los Angeles County, California, 90275, United States\n- Stunt Road Viewpoint | viewpoint | Stunt Road Viewpoint, "
+  },
+  {
+    "source": "la_travel_tips.md#chunk7",
+    "text": "oad Viewpoint | viewpoint | Stunt Road Viewpoint, Backbone Trail - Saddle Peak, Unincorporated Santa Monica Mountains, Los Angeles County, California, 90290, United States\n- Viewpoint School | viewpoint | Viewpoint School, 23620, Mulholland Highway, Calabasas Highlands, Calabasas, Los Angeles County"
+  },
+  {
+    "source": "la_travel_tips.md#chunk8",
+    "text": "Calabasas Highlands, Calabasas, Los Angeles County, California, 91302, United States\n- Mulholland Highway at Viewpoint School | viewpoint | Mulholland Highway at Viewpoint School, Mulholland Highway, Calabasas Highlands, Calabasas, Los Angeles County, California, 91302, United States\n- Beautiful vie"
+  },
+  {
+    "source": "la_travel_tips.md#chunk9",
+    "text": ", California, 91302, United States\n- Beautiful viewpoint to Malibu area | viewpoint | Beautiful viewpoint to Malibu area, Deer Valley Loop, Unincorporated Santa Monica Mountains, Los Angeles County, California, 90265, United States\n"
   },
   {
     "source": "beijing_travel_guide.md#chunk1",
@@ -113,22 +209,22 @@
   },
   {
     "source": "beijing_travel_guide.md#chunk4",
-    "text": "25, 中国\n- 天然图画 | viewpoint | 天然图画, 福缘门路, 福缘门, 青龙桥街道, 海淀区, 北京市, 100871, 中国\n- 中国人民抗日战争纪念馆 | museum | 中国人民抗日战争纪念馆, 宛平城城墙, 宛平街道, 丰台区, 北京市, 100040, 中国\n- 八卦台 | viewpoint | 八卦台, 航站楼联络线, 天竺镇, 顺义区, 北京市, 100621, 中国\n\n## Overview\n- Top attractions and crowd advice for: Beijing top attractions one day itinerary t"
+    "text": "25, 中国\n- 天然图画 | viewpoint | 天然图画, 福缘门路, 福缘门, 青龙桥街道, 海淀区, 北京市, 100871, 中国\n- 中国人民抗日战争纪念馆 | museum | 中国人民抗日战争纪念馆, 宛平城城墙, 宛平街道, 丰台区, 北京市, 100040, 中国\n- 八卦台 | viewpoint | 八卦台, 航站楼联络线, 天竺镇, 顺义区, 北京市, 100621, 中国\n## Overview\n- Top attractions and crowd advice for: Beijing top attractions one day itinerary ti"
   },
   {
     "source": "beijing_travel_guide.md#chunk5",
-    "text": "e for: Beijing top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: Beijing neighborhoods transport crowd tips\n"
+    "text": " for: Beijing top attractions one day itinerary tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Local logistics\n- Top attractions and crowd advice for: Beijing neighborhoods transport crowd tips\n-"
   },
   {
     "source": "beijing_travel_guide.md#chunk6",
-    "text": "e for: Beijing neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: Beijing local food signature restaurants travel tips\n- Pri"
+    "text": " for: Beijing neighborhoods transport crowd tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Food\n- Top attractions and crowd advice for: Beijing local food signature restaurants travel tips\n- Prio"
   },
   {
     "source": "beijing_travel_guide.md#chunk7",
-    "text": "local food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early mo"
+    "text": "ocal food signature restaurants travel tips\n- Prioritize nearby spots to reduce transport overhead.\n- Start outdoor activities in the morning and museums in the afternoon.\n- Source: mock\n\n## Planning Rules\n- Group stops by area and avoid cross-city zig-zag routing.\n- Put outdoor viewpoints early mor"
   },
   {
     "source": "beijing_travel_guide.md#chunk8",
-    "text": "zig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
+    "text": "ig-zag routing.\n- Put outdoor viewpoints early morning or near sunset when possible.\n- Keep 20 to 30 minutes of transfer buffer between major stops.\n- Add at least one meal stop and one indoor fallback stop to the route.\n"
   }
 ]
